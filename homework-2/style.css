@@ -1,0 +1,73 @@
+body {
+  max-width: 720px;
+  margin: 32px auto;
+  padding: 0 16px;
+  color: #202124;
+  background-color: #f4f6f8;
+  font-family: Arial, sans-serif;
+}
+
+h1 {
+  margin-top: 0;
+}
+
+button {
+  padding: 10px 16px;
+  border: 1px solid #334a68;
+  color: #ffffff;
+  background-color: #334a68;
+  cursor: pointer;
+}
+
+label {
+  display: block;
+  margin-bottom: 12px;
+}
+
+input {
+  margin-right: 8px;
+}
+
+pre {
+  white-space: pre-wrap;
+}
+
+.event-card {
+  padding: 24px;
+  border: 1px solid #b8c4d1;
+  background-color: #ffffff;
+}
+
+.service-form {
+  margin-top: 24px;
+  margin-bottom: 24px;
+  padding: 24px;
+  border: 1px solid #b8c4d1;
+  background-color: #ffffff;
+}
+
+.program {
+  margin-top: 16px;
+  padding: 12px;
+  border: 1px solid #8ea3b8;
+  background-color: #edf3f8;
+}
+
+.error {
+  padding: 12px;
+  border: 1px solid #a32121;
+  color: #a32121;
+  background-color: #fff0f0;
+}
+
+.result {
+  padding: 16px;
+  border: 1px solid #527a52;
+  background-color: #f0f8f0;
+}
+
+.report-json {
+  padding: 16px;
+  border: 1px solid #b8c4d1;
+  background-color: #ffffff;
+}
